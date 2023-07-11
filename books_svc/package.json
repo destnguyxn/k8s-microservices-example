@@ -1,7 +1,7 @@
 {
-  "name": "gateway_svc",
+  "name": "books_svc",
   "version": "1.0.0",
-  "description": "Gateway",
+  "description": "Books",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
